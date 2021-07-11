@@ -1,0 +1,23 @@
+.menu{
+    background-color:#000000;
+    display: flex;
+    justify-content: space-between;
+    color:#ffffff;
+ }
+ body{
+     margin: 0px;
+     background-color: #0af8ec;
+ }
+ .grid{
+    display: flex;
+    flex-wrap: wrap;
+ }
+ .gridimg{
+     border-color: crimson
+     
+ }
+ .origami{
+    
+     background-color: blueviolet;
+     font-family: fantasy;
+ }
